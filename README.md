@@ -1,7 +1,5 @@
 # Multi-Stage-DNS-Resolving-System
 
-# Multi-stage-DNS-Resolving-System
-
 In this application, we implemented three C++ programs, namely Client, Proxy
 Server (which will act both as client and server) and DNS Server, which
 communicate with each other based on TCP sockets.
@@ -43,3 +41,10 @@ NOTE: The database.txt file is read by DNS server and is updated by system admin
 
 
 ## Screenshots
+
+![s1](https://user-images.githubusercontent.com/15118630/189527463-2c903dc5-5eaf-43ed-9c04-d79e9d58dce5.png)
+![s2](https://user-images.githubusercontent.com/15118630/189527466-35b92649-1dca-48f5-8b34-87115d5c32b2.png)
+![s3](https://user-images.githubusercontent.com/15118630/189527472-7f167647-3edb-4cf5-9571-fd2d474d3699.png)
+![s4](https://user-images.githubusercontent.com/15118630/189527488-bde29fac-3f67-473a-9517-ed3b3f250166.png)
+![s5](https://user-images.githubusercontent.com/15118630/189527492-60515486-8c25-43a3-af5a-0a434b5d269f.png)
+
